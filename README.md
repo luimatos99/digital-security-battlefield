@@ -5,7 +5,7 @@ Official repository for supplemental material associated with the book:
 "The Digital Security Battlefield: Strategies for Protecting Hybrid Networks from Modern Threats in the AI Era"
 
 Author:
-Luis Matos CCIE#17528 (RS, SP, DC, VC, SEC)
+Luis Matos CCIEx5 #17528 (RS, SP, DC, VC, SEC)
 
 ## Repository Contents
 
