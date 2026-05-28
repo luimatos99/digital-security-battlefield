@@ -1,7 +1,7 @@
 # The Digital Security Battlefield
 
 <p align="center">
-  <img src="[luimatos99/images/book-cover.png)" alt="The Digital Security Battlefield Book Cover" width="500">
+  <img src="images/book-cover.png" alt="The Digital Security Battlefield Book Cover" width="500">
 </p>
 
 Official repository for supplemental material associated with the book:
