@@ -1,11 +1,17 @@
 # The Digital Security Battlefield
 
+<p align="center">
+  <img src="images/book-cover.png" alt="The Digital Security Battlefield Book Cover" width="500">
+</p>
+
 Official repository for supplemental material associated with the book:
 
-"The Digital Security Battlefield: Strategies for Protecting Hybrid Networks from Modern Threats in the AI Era"
+## "The Digital Security Battlefield: Strategies for Protecting Hybrid Networks from Modern Threats in the AI Era"
 
-Author:
-Luis Matos CCIEx5 #17528 (RS, SP, DC, VC, SEC)
+### Author
+Luis Matos CCIE#17528 (RS, SP, DC, VC, SEC)
+
+---
 
 ## Repository Contents
 
@@ -18,6 +24,8 @@ Luis Matos CCIEx5 #17528 (RS, SP, DC, VC, SEC)
 - Threat detection use cases
 - SAFE mappings
 - Lab topologies
+
+---
 
 ## Disclaimer
 
